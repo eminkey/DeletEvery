@@ -1,5 +1,8 @@
 # DeletEvery
 
+DeletEvery encrypts selected file (or files in selected folder) and deletes it. Therefore, if file is back by anybody, it seems encrypted. 
+https://uae-ii.blogspot.com
+https://uae-i.blogspot.com
 
 ![](https://github.com/eminkey/DeletEvery/blob/main/uyg.PNG)
 
